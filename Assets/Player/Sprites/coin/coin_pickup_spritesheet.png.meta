@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: a34b23c1cffcba94e83001a5e95e839c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2269980625446050522
+    second: coin_pickup_spritesheet_0
+  - first:
+      213: 8299961627441276056
+    second: coin_pickup_spritesheet_1
+  - first:
+      213: 6295512533863746957
+    second: coin_pickup_spritesheet_2
+  - first:
+      213: -1444950858663052923
+    second: coin_pickup_spritesheet_3
+  - first:
+      213: -3022610546854495905
+    second: coin_pickup_spritesheet_4
+  - first:
+      213: -3943407019059123266
+    second: coin_pickup_spritesheet_5
+  - first:
+      213: -558345056853152053
+    second: coin_pickup_spritesheet_6
+  - first:
+      213: -4222379542432654578
+    second: coin_pickup_spritesheet_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coin_pickup_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625e445e5a86f70e0800000000000000
+      internalID: -2269980625446050522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin_pickup_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 4
+        width: 10
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5218891, y: 0.1915257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894a20500236f2370800000000000000
+      internalID: 8299961627441276056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin_pickup_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0.4674921, y: -0.028640628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dc7f36b472e5750800000000000000
+      internalID: 6295512533863746957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin_pickup_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 11
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: -0.19117814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5893e7789d082fbe0800000000000000
+      internalID: -1444950858663052923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin_pickup_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 13
+        width: 12
+        height: 16
+      alignment: 9
+      pivot: {x: 0.4783287, y: -0.3374626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59736cd8b78d06d0800000000000000
+      internalID: -3022610546854495905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin_pickup_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 14
+        width: 6
+        height: 16
+      alignment: 9
+      pivot: {x: 0.42017618, y: -0.3535123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbe23095343649c0800000000000000
+      internalID: -3943407019059123266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin_pickup_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 14
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: -0.34519523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce2c28012c5048f0800000000000000
+      internalID: -558345056853152053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin_pickup_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 14
+        width: 17
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: -0.32894105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bdc626d281765c0800000000000000
+      internalID: -4222379542432654578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin_pickup_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 16
+        width: 13
+        height: 11
+      alignment: 9
+      pivot: {x: 0.47999457, y: -0.7293743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3d324842ae6fd4b95bbb43dcf50863
+      internalID: -355624735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin_pickup_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 13
+        width: 17
+        height: 17
+      alignment: 9
+      pivot: {x: 0.48470172, y: -0.31077603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd1540ed336e3043848c758c4ef297c
+      internalID: -547757792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin_pickup_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 12
+        width: 21
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: -0.19805582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9fabe84d46f044c825335e1ba1114d
+      internalID: -1854274859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin_pickup_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 11
+        width: 24
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5108363, y: -0.13157432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003b03645f40f33418e3c556097eedfa
+      internalID: 5991968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3835f251f4a56a94eafeb25fd5fb6d81
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      coin_pickup_spritesheet_0: -2269980625446050522
+      coin_pickup_spritesheet_1: 8299961627441276056
+      coin_pickup_spritesheet_10: -1854274859
+      coin_pickup_spritesheet_11: 5991968
+      coin_pickup_spritesheet_2: 6295512533863746957
+      coin_pickup_spritesheet_3: -1444950858663052923
+      coin_pickup_spritesheet_4: -3022610546854495905
+      coin_pickup_spritesheet_5: -3943407019059123266
+      coin_pickup_spritesheet_6: -558345056853152053
+      coin_pickup_spritesheet_7: -4222379542432654578
+      coin_pickup_spritesheet_8: -355624735
+      coin_pickup_spritesheet_9: -547757792
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

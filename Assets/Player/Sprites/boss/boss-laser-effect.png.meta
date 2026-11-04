@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: b36d79324496b57499ca9dba73e4e1c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 569258495838054734
+    second: boss-laser-effect_0
+  - first:
+      213: 3805844481859958382
+    second: boss-laser-effect_1
+  - first:
+      213: -3576222637509586738
+    second: boss-laser-effect_2
+  - first:
+      213: 6487917093827976139
+    second: boss-laser-effect_3
+  - first:
+      213: -4601862033990959369
+    second: boss-laser-effect_4
+  - first:
+      213: -6101846711476604207
+    second: boss-laser-effect_5
+  - first:
+      213: -3441792189537524978
+    second: boss-laser-effect_6
+  - first:
+      213: -6434004236621986505
+    second: boss-laser-effect_7
+  - first:
+      213: 5519685614119525562
+    second: boss-laser-effect_8
+  - first:
+      213: 4419608772051871184
+    second: boss-laser-effect_9
+  - first:
+      213: 7140253292349981483
+    second: boss-laser-effect_10
+  - first:
+      213: 1074904390256175
+    second: boss-laser-effect_11
+  - first:
+      213: 7898484520236146870
+    second: boss-laser-effect_12
+  - first:
+      213: 248102088128211184
+    second: boss-laser-effect_13
+  - first:
+      213: -5130146845326715549
+    second: boss-laser-effect_14
+  - first:
+      213: -7990406301803607592
+    second: boss-laser-effect_15
+  - first:
+      213: 4186901019917945578
+    second: boss-laser-effect_16
+  - first:
+      213: -1052517436895877854
+    second: boss-laser-effect_17
+  - first:
+      213: 2110693209475250996
+    second: boss-laser-effect_18
+  - first:
+      213: 4256102270366818080
+    second: boss-laser-effect_19
+  - first:
+      213: -4865596370219443490
+    second: boss-laser-effect_20
+  - first:
+      213: 3272501526373452493
+    second: boss-laser-effect_21
+  - first:
+      213: 5310043942997418619
+    second: boss-laser-effect_22
+  - first:
+      213: -8466896946756111530
+    second: boss-laser-effect_23
+  - first:
+      213: -2822574876142073895
+    second: boss-laser-effect_24
+  - first:
+      213: -8304304783984908133
+    second: boss-laser-effect_25
+  - first:
+      213: -3331533931278035216
+    second: boss-laser-effect_26
+  - first:
+      213: -6603660410608636547
+    second: boss-laser-effect_27
+  - first:
+      213: -131497189674151830
+    second: boss-laser-effect_28
+  - first:
+      213: -3921237256197167736
+    second: boss-laser-effect_29
+  - first:
+      213: -626765792606846985
+    second: boss-laser-effect_30
+  - first:
+      213: -1383244587431788559
+    second: boss-laser-effect_31
+  - first:
+      213: 5733554635995325202
+    second: boss-laser-effect_32
+  - first:
+      213: 598357035849169723
+    second: boss-laser-effect_33
+  - first:
+      213: -9120659523269573551
+    second: boss-laser-effect_34
+  - first:
+      213: -2708847880903843436
+    second: boss-laser-effect_35
+  - first:
+      213: 8684939009850885483
+    second: boss-laser-effect_36
+  - first:
+      213: 3341133377025460748
+    second: boss-laser-effect_37
+  - first:
+      213: 3710844617699515953
+    second: boss-laser-effect_38
+  - first:
+      213: 4232679985340990205
+    second: boss-laser-effect_39
+  - first:
+      213: 8387393905004083870
+    second: boss-laser-effect_40
+  - first:
+      213: 3693646193384176614
+    second: boss-laser-effect_41
+  - first:
+      213: 7153116705511192261
+    second: boss-laser-effect_42
+  - first:
+      213: 420881427203040983
+    second: boss-laser-effect_43
+  - first:
+      213: 2194852676642699264
+    second: boss-laser-effect_44
+  - first:
+      213: -2981122951374392945
+    second: boss-laser-effect_45
+  - first:
+      213: 1286878268992642220
+    second: boss-laser-effect_46
+  - first:
+      213: 1844364347676041336
+    second: boss-laser-effect_47
+  - first:
+      213: 23488029819524924
+    second: boss-laser-effect_48
+  - first:
+      213: 2890966694631673645
+    second: boss-laser-effect_49
+  - first:
+      213: -3178993854193268759
+    second: boss-laser-effect_50
+  - first:
+      213: -4659625201452561340
+    second: boss-laser-effect_51
+  - first:
+      213: -1316900545161835673
+    second: boss-laser-effect_52
+  - first:
+      213: -6192059616839003019
+    second: boss-laser-effect_53
+  - first:
+      213: 3400265695581774354
+    second: boss-laser-effect_54
+  - first:
+      213: 1907471374838063646
+    second: boss-laser-effect_55
+  - first:
+      213: -5192304768494879800
+    second: boss-laser-effect_56
+  - first:
+      213: -184666043004770806
+    second: boss-laser-effect_57
+  - first:
+      213: -4679827796618762769
+    second: boss-laser-effect_58
+  - first:
+      213: -2671654321353295611
+    second: boss-laser-effect_59
+  - first:
+      213: 8978712451849989861
+    second: boss-laser-effect_60
+  - first:
+      213: 763956581214481035
+    second: boss-laser-effect_61
+  - first:
+      213: 4264262094069261902
+    second: boss-laser-effect_62
+  - first:
+      213: 7487899556367111216
+    second: boss-laser-effect_63
+  - first:
+      213: 8928185234665059951
+    second: boss-laser-effect_64
+  - first:
+      213: -625772625773450361
+    second: boss-laser-effect_65
+  - first:
+      213: 4637414577972219815
+    second: boss-laser-effect_66
+  - first:
+      213: -5947070184115080011
+    second: boss-laser-effect_67
+  - first:
+      213: 6930466061329328136
+    second: boss-laser-effect_68
+  - first:
+      213: 48851947857177261
+    second: boss-laser-effect_69
+  - first:
+      213: 1155457310003236770
+    second: boss-laser-effect_70
+  - first:
+      213: -8419996135354212757
+    second: boss-laser-effect_71
+  - first:
+      213: -4713246497049516833
+    second: boss-laser-effect_72
+  - first:
+      213: 2695938772294525164
+    second: boss-laser-effect_73
+  - first:
+      213: -6672700687003686171
+    second: boss-laser-effect_74
+  - first:
+      213: 8005659504619963037
+    second: boss-laser-effect_75
+  - first:
+      213: -4947135802070509668
+    second: boss-laser-effect_76
+  - first:
+      213: -686796548241718820
+    second: boss-laser-effect_77
+  - first:
+      213: -5684255580868445067
+    second: boss-laser-effect_78
+  - first:
+      213: -3309203518924628158
+    second: boss-laser-effect_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss-laser-effect_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 1254
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49eccdf59966e700800000000000000
+      internalID: 569258495838054734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-laser-effect_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 899
+        width: 1254
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66b4ab546311d430800000000000000
+      internalID: 3805844481859958382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-laser-effect_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 752
+        width: 1254
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0d7857574be5ec0800000000000000
+      internalID: -3576222637509586738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-laser-effect_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 598
+        width: 1254
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb1dcde836b90a50800000000000000
+      internalID: 6487917093827976139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-laser-effect_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 442
+        width: 1254
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea06f1dd1b394f4bb1f1b2e43c5f098
+      internalID: -4601862033990959369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-laser-effect_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 279
+        width: 1251
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468f2ffb5a0976e4bb88b00762ed31e2
+      internalID: -6101846711476604207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-laser-effect_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 131
+        width: 1253
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779bbe11cd297ae42ab9ae0b94120395
+      internalID: -3441792189537524978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f37c2382e4f7eae4c887df6ec9253f48
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":4.0},"gridSpriteSize":{"x":1254.0,"y":313.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      boss-laser-effect_0: 569258495838054734
+      boss-laser-effect_1: 3805844481859958382
+      boss-laser-effect_2: -3576222637509586738
+      boss-laser-effect_3: 6487917093827976139
+      boss-laser-effect_4: -4601862033990959369
+      boss-laser-effect_5: -6101846711476604207
+      boss-laser-effect_6: -3441792189537524978
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

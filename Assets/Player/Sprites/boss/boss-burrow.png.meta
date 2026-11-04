@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: eb12cc8db3483c848854c22a19d934b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3409342300203019693
+    second: boss-burrow_0
+  - first:
+      213: -499183561899649205
+    second: boss-burrow_1
+  - first:
+      213: -3404083436229121016
+    second: boss-burrow_2
+  - first:
+      213: 2825055783360982136
+    second: boss-burrow_3
+  - first:
+      213: -1435010477438115854
+    second: boss-burrow_4
+  - first:
+      213: 5566101991966194962
+    second: boss-burrow_5
+  - first:
+      213: 5441773372532793064
+    second: boss-burrow_6
+  - first:
+      213: -5643438153928726036
+    second: boss-burrow_7
+  - first:
+      213: 756067545398719432
+    second: boss-burrow_8
+  - first:
+      213: 2910320172881582944
+    second: boss-burrow_9
+  - first:
+      213: 8661246966830073810
+    second: boss-burrow_10
+  - first:
+      213: -2105862230175778656
+    second: boss-burrow_11
+  - first:
+      213: -5151783455868522031
+    second: boss-burrow_12
+  - first:
+      213: -2555731838753942646
+    second: boss-burrow_13
+  - first:
+      213: 900407065549740392
+    second: boss-burrow_14
+  - first:
+      213: 3739429023417034491
+    second: boss-burrow_15
+  - first:
+      213: 669976649180673861
+    second: boss-burrow_16
+  - first:
+      213: -7582740248397601121
+    second: boss-burrow_17
+  - first:
+      213: 3443459011619298587
+    second: boss-burrow_18
+  - first:
+      213: 5868830816689798631
+    second: boss-burrow_19
+  - first:
+      213: -5151392468036024165
+    second: boss-burrow_20
+  - first:
+      213: -5327785053585922110
+    second: boss-burrow_21
+  - first:
+      213: 4465246444407258593
+    second: boss-burrow_22
+  - first:
+      213: 5221679479976319171
+    second: boss-burrow_23
+  - first:
+      213: 5744646535212827582
+    second: boss-burrow_24
+  - first:
+      213: 3444190758372915774
+    second: boss-burrow_25
+  - first:
+      213: -8232427197604164688
+    second: boss-burrow_26
+  - first:
+      213: -7785671988172016730
+    second: boss-burrow_27
+  - first:
+      213: -826768864252269756
+    second: boss-burrow_28
+  - first:
+      213: 6939795063623928293
+    second: boss-burrow_29
+  - first:
+      213: 5841474613049123007
+    second: boss-burrow_30
+  - first:
+      213: 7901737285690195333
+    second: boss-burrow_31
+  - first:
+      213: 9017839951481674545
+    second: boss-burrow_32
+  - first:
+      213: -673180760233617277
+    second: boss-burrow_33
+  - first:
+      213: 8492222764573612372
+    second: boss-burrow_34
+  - first:
+      213: -2439510769435863887
+    second: boss-burrow_35
+  - first:
+      213: 2899562271896891618
+    second: boss-burrow_36
+  - first:
+      213: -3314316008863009493
+    second: boss-burrow_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss-burrow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 894
+        width: 629
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad605132ca605f20800000000000000
+      internalID: 3409342300203019693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-burrow_1
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 891
+        width: 623
+        height: 363
+      alignment: 9
+      pivot: {x: 0.5000002, y: 0.5510654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47d14bf13b8219f0800000000000000
+      internalID: -499183561899649205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-burrow_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 578
+        width: 625
+        height: 275
+      alignment: 9
+      pivot: {x: 0.5024716, y: 0.74153763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ca5cd762442c0d0800000000000000
+      internalID: -3404083436229121016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-burrow_3
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 556
+        width: 627
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4975363, y: 0.7244917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ce4e5644d943720800000000000000
+      internalID: 2825055783360982136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-burrow_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 259
+        width: 624
+        height: 237
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.81285423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff5653e291d51ce0800000000000000
+      internalID: -1435010477438115854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-burrow_5
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 227
+        width: 627
+        height: 238
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.9153858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d3dbe6544ce3d40800000000000000
+      internalID: 5566101991966194962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-burrow_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 627
+        height: 213
+      alignment: 9
+      pivot: {x: 0.50246376, y: 0.79733956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee1ff1fc00158b40800000000000000
+      internalID: 5441773372532793064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-burrow_7
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 2
+        width: 624
+        height: 188
+      alignment: 9
+      pivot: {x: 0.504951, y: 0.9354785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9213336ea7ea1b0800000000000000
+      internalID: -5643438153928726036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3c79c3ff367ae404c95d5ba9c9530d5f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":2.0,"y":4.0},"gridSpriteSize":{"x":627.0,"y":313.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      boss-burrow_0: 3409342300203019693
+      boss-burrow_1: -499183561899649205
+      boss-burrow_2: -3404083436229121016
+      boss-burrow_3: 2825055783360982136
+      boss-burrow_4: -1435010477438115854
+      boss-burrow_5: 5566101991966194962
+      boss-burrow_6: 5441773372532793064
+      boss-burrow_7: -5643438153928726036
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

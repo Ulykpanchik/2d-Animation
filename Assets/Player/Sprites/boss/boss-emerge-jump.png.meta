@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 8262546295a834f4ab52daf1bfa9835c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1730138112600814208
+    second: boss-emerge-jump_0
+  - first:
+      213: 6316229673986937590
+    second: boss-emerge-jump_1
+  - first:
+      213: -6302096609621756720
+    second: boss-emerge-jump_2
+  - first:
+      213: 4590140160253053611
+    second: boss-emerge-jump_3
+  - first:
+      213: -5001247266400422468
+    second: boss-emerge-jump_4
+  - first:
+      213: -7338151450296580450
+    second: boss-emerge-jump_5
+  - first:
+      213: -7844567119228747972
+    second: boss-emerge-jump_6
+  - first:
+      213: -400295764589510473
+    second: boss-emerge-jump_7
+  - first:
+      213: 7429414326156538252
+    second: boss-emerge-jump_8
+  - first:
+      213: 723732215622910911
+    second: boss-emerge-jump_9
+  - first:
+      213: 5058423435724911322
+    second: boss-emerge-jump_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss-emerge-jump_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 941
+        width: 627
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082bfed527fa20810800000000000000
+      internalID: 1730138112600814208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-emerge-jump_1
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 941
+        width: 627
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2d5c57c61c7a750800000000000000
+      internalID: 6316229673986937590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-emerge-jump_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 604
+        width: 627
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d43d4306847a88a0800000000000000
+      internalID: -6302096609621756720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-emerge-jump_3
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 605
+        width: 627
+        height: 336
+      alignment: 9
+      pivot: {x: 0.5000003, y: 0.32070342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa4329f72473bf30800000000000000
+      internalID: 4590140160253053611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-emerge-jump_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 281
+        width: 627
+        height: 324
+      alignment: 9
+      pivot: {x: 0.50492734, y: 0.34743583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb53f44eb10089ab0800000000000000
+      internalID: -5001247266400422468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-emerge-jump_5
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 275
+        width: 627
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e960e099226a92a90800000000000000
+      internalID: -7338151450296580450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-emerge-jump_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 624
+        height: 259
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.59542674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f39a174cf722390800000000000000
+      internalID: -7844567119228747972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-emerge-jump_7
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 2
+        width: 627
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b08c8a7f1dd17af0800000000000000
+      internalID: -400295764589510473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b966e80782348aa4db8aea516b38204b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":2.0,"y":4.0},"gridSpriteSize":{"x":627.0,"y":313.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      boss-emerge-jump_0: 1730138112600814208
+      boss-emerge-jump_1: 6316229673986937590
+      boss-emerge-jump_2: -6302096609621756720
+      boss-emerge-jump_3: 4590140160253053611
+      boss-emerge-jump_4: -5001247266400422468
+      boss-emerge-jump_5: -7338151450296580450
+      boss-emerge-jump_6: -7844567119228747972
+      boss-emerge-jump_7: -400295764589510473
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,426 @@
+fileFormatVersion: 2
+guid: 0916e076990ff2049bb388299065ca25
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6347592374370370879
+    second: boss-walk_0
+  - first:
+      213: -6594346933390707198
+    second: boss-walk_1
+  - first:
+      213: -5368493231861126294
+    second: boss-walk_2
+  - first:
+      213: -3489684019005959149
+    second: boss-walk_3
+  - first:
+      213: -7868941526461702039
+    second: boss-walk_4
+  - first:
+      213: 5908514846082071483
+    second: boss-walk_5
+  - first:
+      213: 7392099855494826746
+    second: boss-walk_6
+  - first:
+      213: -826739908019966239
+    second: boss-walk_7
+  - first:
+      213: 4566247202384589699
+    second: boss-walk_8
+  - first:
+      213: 4916949617152138973
+    second: boss-walk_9
+  - first:
+      213: -713550824877906433
+    second: boss-walk_10
+  - first:
+      213: 2830790148960633992
+    second: boss-walk_11
+  - first:
+      213: -852289437891543129
+    second: boss-walk_12
+  - first:
+      213: -4557854302410752415
+    second: boss-walk_13
+  - first:
+      213: -6961562650291130767
+    second: boss-walk_14
+  - first:
+      213: 7333293593112572795
+    second: boss-walk_15
+  - first:
+      213: -5359663388769001137
+    second: boss-walk_16
+  - first:
+      213: 7268394719846437129
+    second: boss-walk_17
+  - first:
+      213: -3302070658752405357
+    second: boss-walk_18
+  - first:
+      213: -8201575628316412555
+    second: boss-walk_19
+  - first:
+      213: 4496676203125849769
+    second: boss-walk_20
+  - first:
+      213: 4170502675297494092
+    second: boss-walk_21
+  - first:
+      213: -5623889026261313951
+    second: boss-walk_22
+  - first:
+      213: 7542233301042626259
+    second: boss-walk_23
+  - first:
+      213: -7948844050483094073
+    second: boss-walk_24
+  - first:
+      213: 8522661185144390762
+    second: boss-walk_25
+  - first:
+      213: -8741792387796238979
+    second: boss-walk_26
+  - first:
+      213: -8374454433495656631
+    second: boss-walk_27
+  - first:
+      213: 1389887852112332600
+    second: boss-walk_28
+  - first:
+      213: -8313947750130618520
+    second: boss-walk_29
+  - first:
+      213: 1308385591207566301
+    second: boss-walk_30
+  - first:
+      213: 8337120105043522294
+    second: boss-walk_31
+  - first:
+      213: -2005279195123939116
+    second: boss-walk_32
+  - first:
+      213: 1917378232103439937
+    second: boss-walk_33
+  - first:
+      213: 7563487274308868453
+    second: boss-walk_34
+  - first:
+      213: -852496844444897576
+    second: boss-walk_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss-walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 939
+        width: 624
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cafca2dd52d8e7a0800000000000000
+      internalID: -6347592374370370879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-walk_1
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 941
+        width: 627
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2067f85076c2c74a0800000000000000
+      internalID: -6594346933390707198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-walk_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 625
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b24df59d74f75b0800000000000000
+      internalID: -5368493231861126294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-walk_3
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 628
+        width: 627
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314dac4bfd6229fc0800000000000000
+      internalID: -3489684019005959149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-walk_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 627
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9602ee48f57ebc290800000000000000
+      internalID: -7868941526461702039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-walk_5
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 315
+        width: 627
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbf7d6a2f24ff150800000000000000
+      internalID: 5908514846082071483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-walk_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 627
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa4cfe47a3069660800000000000000
+      internalID: 7392099855494826746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-walk_7
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 2
+        width: 627
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eea4d41f64d684f0800000000000000
+      internalID: -826739908019966239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8639280b4aec65649aae0a632070b510
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":2.0,"y":4.0},"gridSpriteSize":{"x":627.0,"y":313.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      boss-walk_0: -6347592374370370879
+      boss-walk_1: -6594346933390707198
+      boss-walk_2: -5368493231861126294
+      boss-walk_3: -3489684019005959149
+      boss-walk_4: -7868941526461702039
+      boss-walk_5: 5908514846082071483
+      boss-walk_6: 7392099855494826746
+      boss-walk_7: -826739908019966239
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

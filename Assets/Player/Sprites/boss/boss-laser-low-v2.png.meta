@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: e4a31ada8bb8d924aa2447e67b67a0c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7300423044297237869
+    second: boss-laser-low-v2_0
+  - first:
+      213: -8632306281000522082
+    second: boss-laser-low-v2_1
+  - first:
+      213: -8384131314828300632
+    second: boss-laser-low-v2_2
+  - first:
+      213: 2139546325778302464
+    second: boss-laser-low-v2_3
+  - first:
+      213: 2271061182096670399
+    second: boss-laser-low-v2_4
+  - first:
+      213: 1253364410062882616
+    second: boss-laser-low-v2_5
+  - first:
+      213: 4799776662963849007
+    second: boss-laser-low-v2_6
+  - first:
+      213: 3279768346056577207
+    second: boss-laser-low-v2_7
+  - first:
+      213: -5233112941808059794
+    second: boss-laser-low-v2_8
+  - first:
+      213: -8553112443159752201
+    second: boss-laser-low-v2_9
+  - first:
+      213: 4054193857489886114
+    second: boss-laser-low-v2_10
+  - first:
+      213: -6710662833676173685
+    second: boss-laser-low-v2_11
+  - first:
+      213: -8575874227026621797
+    second: boss-laser-low-v2_12
+  - first:
+      213: -3970807174652116662
+    second: boss-laser-low-v2_13
+  - first:
+      213: 8472068219276907552
+    second: boss-laser-low-v2_14
+  - first:
+      213: 2672880662346315076
+    second: boss-laser-low-v2_15
+  - first:
+      213: -7956990470466972717
+    second: boss-laser-low-v2_16
+  - first:
+      213: -8491807354605314174
+    second: boss-laser-low-v2_17
+  - first:
+      213: -5793378237688806373
+    second: boss-laser-low-v2_18
+  - first:
+      213: 488540058153178747
+    second: boss-laser-low-v2_19
+  - first:
+      213: 3479959761662383369
+    second: boss-laser-low-v2_20
+  - first:
+      213: 8004958367179797253
+    second: boss-laser-low-v2_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss-laser-low-v2_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 827
+        width: 627
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65a9695410505560800000000000000
+      internalID: 7300423044297237869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-laser-low-v2_1
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 827
+        width: 627
+        height: 313
+      alignment: 9
+      pivot: {x: 0.4876818, y: 0.5000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e27906c23e33880800000000000000
+      internalID: -8632306281000522082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-laser-low-v2_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511
+        width: 627
+        height: 313
+      alignment: 9
+      pivot: {x: 0.51970947, y: 0.5345467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae2e6d7df495ab80800000000000000
+      internalID: -8384131314828300632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-laser-low-v2_3
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 515
+        width: 627
+        height: 313
+      alignment: 9
+      pivot: {x: 0.48768198, y: 0.5641585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00602882c0231bd10800000000000000
+      internalID: 2139546325778302464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-laser-low-v2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 275
+        width: 629
+        height: 218
+      alignment: 9
+      pivot: {x: 0.50245625, y: 0.75509155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbefc0ecc1e648f10800000000000000
+      internalID: 2271061182096670399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-laser-low-v2_5
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 271
+        width: 624
+        height: 205
+      alignment: 9
+      pivot: {x: 0.4950493, y: 0.7109857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8374ae35a48d46110800000000000000
+      internalID: 1253364410062882616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-laser-low-v2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 624
+        height: 237
+      alignment: 9
+      pivot: {x: 0.5024753, y: 0.7672296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f278b25d17b3c9240800000000000000
+      internalID: 4799776662963849007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-laser-low-v2_7
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 2
+        width: 623
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5049591, y: 0.6946105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0d54c0fe3148d20800000000000000
+      internalID: 3279768346056577207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 34a9cb0bd2999b849965b97f342720ce
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":2.0,"y":4.0},"gridSpriteSize":{"x":627.0,"y":313.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      boss-laser-low-v2_0: 7300423044297237869
+      boss-laser-low-v2_1: -8632306281000522082
+      boss-laser-low-v2_2: -8384131314828300632
+      boss-laser-low-v2_3: 2139546325778302464
+      boss-laser-low-v2_4: 2271061182096670399
+      boss-laser-low-v2_5: 1253364410062882616
+      boss-laser-low-v2_6: 4799776662963849007
+      boss-laser-low-v2_7: 3279768346056577207
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

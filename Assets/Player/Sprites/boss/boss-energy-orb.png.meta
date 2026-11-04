@@ -1,0 +1,1276 @@
+fileFormatVersion: 2
+guid: 2d11f146411f60640bdd316d561271bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -571781991888931068
+    second: boss-energy-orb_0
+  - first:
+      213: -9184893548284914447
+    second: boss-energy-orb_1
+  - first:
+      213: 3076207816188233971
+    second: boss-energy-orb_2
+  - first:
+      213: -6889113697064409505
+    second: boss-energy-orb_3
+  - first:
+      213: 87126076134725775
+    second: boss-energy-orb_4
+  - first:
+      213: -3028203028507166756
+    second: boss-energy-orb_5
+  - first:
+      213: 3637157358140267579
+    second: boss-energy-orb_6
+  - first:
+      213: -6194891069403421173
+    second: boss-energy-orb_7
+  - first:
+      213: -7284984585168979459
+    second: boss-energy-orb_8
+  - first:
+      213: -1583584284569244479
+    second: boss-energy-orb_9
+  - first:
+      213: -729977275289088397
+    second: boss-energy-orb_10
+  - first:
+      213: 3072529792051317815
+    second: boss-energy-orb_11
+  - first:
+      213: -5705082661315947109
+    second: boss-energy-orb_12
+  - first:
+      213: 4996285756458870487
+    second: boss-energy-orb_13
+  - first:
+      213: -750267815407293755
+    second: boss-energy-orb_14
+  - first:
+      213: 4229445242178170970
+    second: boss-energy-orb_15
+  - first:
+      213: 7058528315883633958
+    second: boss-energy-orb_16
+  - first:
+      213: 1784119343843537787
+    second: boss-energy-orb_17
+  - first:
+      213: 8557262016254569125
+    second: boss-energy-orb_18
+  - first:
+      213: 1568944892701411103
+    second: boss-energy-orb_19
+  - first:
+      213: -6409576597861367955
+    second: boss-energy-orb_20
+  - first:
+      213: 2860842771863859173
+    second: boss-energy-orb_21
+  - first:
+      213: -3635256544902024261
+    second: boss-energy-orb_22
+  - first:
+      213: -5007263334044500633
+    second: boss-energy-orb_23
+  - first:
+      213: -6122554676396934016
+    second: boss-energy-orb_24
+  - first:
+      213: 2444723812614779022
+    second: boss-energy-orb_25
+  - first:
+      213: -7473936739900843022
+    second: boss-energy-orb_26
+  - first:
+      213: 9032569093469549354
+    second: boss-energy-orb_27
+  - first:
+      213: -5204340372727057338
+    second: boss-energy-orb_28
+  - first:
+      213: 7926753811929118284
+    second: boss-energy-orb_29
+  - first:
+      213: -4206202884628360601
+    second: boss-energy-orb_30
+  - first:
+      213: -4594520982781816047
+    second: boss-energy-orb_31
+  - first:
+      213: -8619787696124629256
+    second: boss-energy-orb_32
+  - first:
+      213: -6643154665464845372
+    second: boss-energy-orb_33
+  - first:
+      213: -4446907549083149187
+    second: boss-energy-orb_34
+  - first:
+      213: 3798941660977905530
+    second: boss-energy-orb_35
+  - first:
+      213: -7034348096930842063
+    second: boss-energy-orb_36
+  - first:
+      213: 2311141615064790194
+    second: boss-energy-orb_37
+  - first:
+      213: -5058224916889610838
+    second: boss-energy-orb_38
+  - first:
+      213: -4787929894470136370
+    second: boss-energy-orb_39
+  - first:
+      213: -2532574114994081438
+    second: boss-energy-orb_40
+  - first:
+      213: -7867632349809133891
+    second: boss-energy-orb_41
+  - first:
+      213: 7842572758281711798
+    second: boss-energy-orb_42
+  - first:
+      213: 6116144486745293091
+    second: boss-energy-orb_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss-energy-orb_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 735
+        height: 1254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407be7cce4f9018f0800000000000000
+      internalID: -571781991888931068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_1
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 791
+        width: 143
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f453b24bf3b88080800000000000000
+      internalID: -9184893548284914447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_2
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 620
+        width: 488
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f80e2bd5b2e0ba20800000000000000
+      internalID: 3076207816188233971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_3
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1229
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56a235b793f460a0800000000000000
+      internalID: -6889113697064409505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_4
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1215
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f881fa264b8853100800000000000000
+      internalID: 87126076134725775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_5
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1221
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd77112c369a9f5d0800000000000000
+      internalID: -3028203028507166756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_6
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1219
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c1624c857c97230800000000000000
+      internalID: 3637157358140267579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_7
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1224
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0628f1f463570aa0800000000000000
+      internalID: -6194891069403421173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_8
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1146
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df97ec60e1986ea90800000000000000
+      internalID: -7284984585168979459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_9
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1148
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cceb5ebb7af50ae0800000000000000
+      internalID: -1583584284569244479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_10
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1107
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e494429899ed5f0800000000000000
+      internalID: -729977275289088397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_11
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1137
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c06012191d3aa20800000000000000
+      internalID: 3072529792051317815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_12
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1116
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95d50edb8973d0b0800000000000000
+      internalID: -5705082661315947109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_13
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1126
+        width: 37
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6231e8c6f565540800000000000000
+      internalID: 4996285756458870487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_14
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1132
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca6d30a5638695f0800000000000000
+      internalID: -750267815407293755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_15
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 621
+        width: 487
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50fef80a0202ba30800000000000000
+      internalID: 4229445242178170970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_16
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 817
+        width: 275
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62db7490b1ee4f160800000000000000
+      internalID: 7058528315883633958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_17
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 793
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7372be271772c810800000000000000
+      internalID: 1784119343843537787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_18
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 740
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aaebc8277081c670800000000000000
+      internalID: 8557262016254569125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_19
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 777
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1781a9311306c510800000000000000
+      internalID: 1568944892701411103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_20
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 767
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ff0db2b0c9c07a0800000000000000
+      internalID: -6409576597861367955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_21
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 757
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef6037f751c3b720800000000000000
+      internalID: 2860842771863859173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_22
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 451
+        width: 215
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb373bdce69fc8dc0800000000000000
+      internalID: -3635256544902024261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_23
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 122
+        width: 675
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d707df680a28ab0800000000000000
+      internalID: -5007263334044500633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_24
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 712
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c3473e5f0580ba0800000000000000
+      internalID: -6122554676396934016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_25
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 722
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80b7d8da576de120800000000000000
+      internalID: 2444723812614779022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_26
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 658
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb1878322e374890800000000000000
+      internalID: -7473936739900843022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23bc61ebb12a5d70800000000000000
+      internalID: 9032569093469549354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_28
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 353
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6443169310876c7b0800000000000000
+      internalID: -5204340372727057338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_29
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 5
+        width: 106
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46320e189c710e60800000000000000
+      internalID: 7926753811929118284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_30
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 0
+        width: 429
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762d08803c090a5c0800000000000000
+      internalID: -4206202884628360601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_31
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 97
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113163c428bfc30c0800000000000000
+      internalID: -4594520982781816047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_32
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 124
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe653d82cc506880800000000000000
+      internalID: -8619787696124629256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_33
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 95
+        width: 87
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb2df85706cec3a0800000000000000
+      internalID: -6643154665464845372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_34
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 111
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c55e315296942c0800000000000000
+      internalID: -4446907549083149187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_35
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 0
+        width: 92
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f3501205d88b430800000000000000
+      internalID: 3798941660977905530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_36
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 101
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13afdf7eca9f06e90800000000000000
+      internalID: -7034348096930842063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_37
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 79
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b43f8fcd03d21020800000000000000
+      internalID: 2311141615064790194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_38
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 23
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5d3cadc339dc9b0800000000000000
+      internalID: -5058224916889610838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_39
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 57
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd42a6e02bdd8db0800000000000000
+      internalID: -4787929894470136370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_40
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 63
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261bd64b24d7adcd0800000000000000
+      internalID: -2532574114994081438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_41
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 47
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db63146ff0e80d290800000000000000
+      internalID: -7867632349809133891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_42
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 11
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b079863f5a66dc60800000000000000
+      internalID: 7842572758281711798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-energy-orb_43
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 13
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321ca678109e0e450800000000000000
+      internalID: 6116144486745293091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      boss-energy-orb_0: -571781991888931068
+      boss-energy-orb_1: -9184893548284914447
+      boss-energy-orb_10: -729977275289088397
+      boss-energy-orb_11: 3072529792051317815
+      boss-energy-orb_12: -5705082661315947109
+      boss-energy-orb_13: 4996285756458870487
+      boss-energy-orb_14: -750267815407293755
+      boss-energy-orb_15: 4229445242178170970
+      boss-energy-orb_16: 7058528315883633958
+      boss-energy-orb_17: 1784119343843537787
+      boss-energy-orb_18: 8557262016254569125
+      boss-energy-orb_19: 1568944892701411103
+      boss-energy-orb_2: 3076207816188233971
+      boss-energy-orb_20: -6409576597861367955
+      boss-energy-orb_21: 2860842771863859173
+      boss-energy-orb_22: -3635256544902024261
+      boss-energy-orb_23: -5007263334044500633
+      boss-energy-orb_24: -6122554676396934016
+      boss-energy-orb_25: 2444723812614779022
+      boss-energy-orb_26: -7473936739900843022
+      boss-energy-orb_27: 9032569093469549354
+      boss-energy-orb_28: -5204340372727057338
+      boss-energy-orb_29: 7926753811929118284
+      boss-energy-orb_3: -6889113697064409505
+      boss-energy-orb_30: -4206202884628360601
+      boss-energy-orb_31: -4594520982781816047
+      boss-energy-orb_32: -8619787696124629256
+      boss-energy-orb_33: -6643154665464845372
+      boss-energy-orb_34: -4446907549083149187
+      boss-energy-orb_35: 3798941660977905530
+      boss-energy-orb_36: -7034348096930842063
+      boss-energy-orb_37: 2311141615064790194
+      boss-energy-orb_38: -5058224916889610838
+      boss-energy-orb_39: -4787929894470136370
+      boss-energy-orb_4: 87126076134725775
+      boss-energy-orb_40: -2532574114994081438
+      boss-energy-orb_41: -7867632349809133891
+      boss-energy-orb_42: 7842572758281711798
+      boss-energy-orb_43: 6116144486745293091
+      boss-energy-orb_5: -3028203028507166756
+      boss-energy-orb_6: 3637157358140267579
+      boss-energy-orb_7: -6194891069403421173
+      boss-energy-orb_8: -7284984585168979459
+      boss-energy-orb_9: -1583584284569244479
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

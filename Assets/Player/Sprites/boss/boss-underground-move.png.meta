@@ -1,0 +1,426 @@
+fileFormatVersion: 2
+guid: 63db759c85988b94f9d05bcc40c14d99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1521245318377634161
+    second: boss-underground-move_0
+  - first:
+      213: 1546840699877660688
+    second: boss-underground-move_1
+  - first:
+      213: -3238865772812460760
+    second: boss-underground-move_2
+  - first:
+      213: 5367642505744486459
+    second: boss-underground-move_3
+  - first:
+      213: 3912181142734268124
+    second: boss-underground-move_4
+  - first:
+      213: -3996464382145902241
+    second: boss-underground-move_5
+  - first:
+      213: -4227323621301343402
+    second: boss-underground-move_6
+  - first:
+      213: -3118579892583604425
+    second: boss-underground-move_7
+  - first:
+      213: 8567231685656428365
+    second: boss-underground-move_8
+  - first:
+      213: 6966782426888286862
+    second: boss-underground-move_9
+  - first:
+      213: -6659936007063961914
+    second: boss-underground-move_10
+  - first:
+      213: 7355118089270824474
+    second: boss-underground-move_11
+  - first:
+      213: 8773861322585375212
+    second: boss-underground-move_12
+  - first:
+      213: 3112384913389897189
+    second: boss-underground-move_13
+  - first:
+      213: -6026704847809358588
+    second: boss-underground-move_14
+  - first:
+      213: -2327508464977531740
+    second: boss-underground-move_15
+  - first:
+      213: 2215472605437126400
+    second: boss-underground-move_16
+  - first:
+      213: 7275657390376919475
+    second: boss-underground-move_17
+  - first:
+      213: -5099561871943753816
+    second: boss-underground-move_18
+  - first:
+      213: -5475044308615920960
+    second: boss-underground-move_19
+  - first:
+      213: -6470115234734559116
+    second: boss-underground-move_20
+  - first:
+      213: -3063482704424121775
+    second: boss-underground-move_21
+  - first:
+      213: 139396286400339221
+    second: boss-underground-move_22
+  - first:
+      213: -6628839626074200803
+    second: boss-underground-move_23
+  - first:
+      213: -5971165207108839495
+    second: boss-underground-move_24
+  - first:
+      213: 7803749055214401006
+    second: boss-underground-move_25
+  - first:
+      213: -7443064935042736664
+    second: boss-underground-move_26
+  - first:
+      213: 894627589940848057
+    second: boss-underground-move_27
+  - first:
+      213: -1426229547237653764
+    second: boss-underground-move_28
+  - first:
+      213: -3401229806743881780
+    second: boss-underground-move_29
+  - first:
+      213: -7648879879726282388
+    second: boss-underground-move_30
+  - first:
+      213: -6887212327536308588
+    second: boss-underground-move_31
+  - first:
+      213: 8572563734695197419
+    second: boss-underground-move_32
+  - first:
+      213: 4755864201869084457
+    second: boss-underground-move_33
+  - first:
+      213: -7106450956274164310
+    second: boss-underground-move_34
+  - first:
+      213: 6456588478111443172
+    second: boss-underground-move_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss-underground-move_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 925
+        width: 623
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8600ed517373eae0800000000000000
+      internalID: -1521245318377634161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-underground-move_1
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 924
+        width: 627
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0181358cb6b777510800000000000000
+      internalID: 1546840699877660688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-underground-move_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 609
+        width: 627
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d97586dbc3d03d0800000000000000
+      internalID: -3238865772812460760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-underground-move_3
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 609
+        width: 627
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3010348b62bd7a40800000000000000
+      internalID: 5367642505744486459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-underground-move_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 308
+        width: 625
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd668ad850cda4630800000000000000
+      internalID: 3912181142734268124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-underground-move_5
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 309
+        width: 627
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5941b091d4b988c0800000000000000
+      internalID: -3996464382145902241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-underground-move_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 628
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b27b150978555c0800000000000000
+      internalID: -4227323621301343402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss-underground-move_7
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 30
+        width: 626
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fd0e25c1498b4d0800000000000000
+      internalID: -3118579892583604425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0b3965b4f0ce9634fa435d177d22170b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":2.0,"y":4.0},"gridSpriteSize":{"x":627.0,"y":313.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      boss-underground-move_0: -1521245318377634161
+      boss-underground-move_1: 1546840699877660688
+      boss-underground-move_2: -3238865772812460760
+      boss-underground-move_3: 5367642505744486459
+      boss-underground-move_4: 3912181142734268124
+      boss-underground-move_5: -3996464382145902241
+      boss-underground-move_6: -4227323621301343402
+      boss-underground-move_7: -3118579892583604425
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
